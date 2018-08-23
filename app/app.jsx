@@ -12,4 +12,4 @@ ReactDOM.render(
 <h1>Learn Redux</h1>
   , document.getElementById('app'));
 
-  require('./redux-example');
+  require('./redux-todo');
