@@ -1,1 +1,1 @@
-BoilerPlate Project React App
+Redux learning  functions and methods
